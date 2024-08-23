@@ -1,3 +1,6 @@
+// Shared functionality between Aura and Enemies
+// Note: This class is abstact
+
 #pragma once
 
 #include "CoreMinimal.h"

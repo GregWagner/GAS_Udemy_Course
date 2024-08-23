@@ -1,4 +1,5 @@
 // Shared functionality between Aura and Enemies
+// Note: This class is abstact
 
 #include "Character/AuraCharacterBase.h"
 
