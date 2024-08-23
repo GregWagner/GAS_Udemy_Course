@@ -6,4 +6,6 @@ AAuraCharacterBase::AAuraCharacterBase(){
 
 auto AAuraCharacterBase::BeginPlay() -> void{
 	Super::BeginPlay();
+
+	Weapon = CreateDefaultSubobject<USkeletalMeshComponent>()
 }
