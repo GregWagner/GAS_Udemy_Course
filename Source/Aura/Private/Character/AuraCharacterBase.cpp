@@ -1,3 +1,5 @@
+// Shared functionality between Aura and Enemies
+
 #include "Character/AuraCharacterBase.h"
 
 AAuraCharacterBase::AAuraCharacterBase(){
